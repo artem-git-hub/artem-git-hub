@@ -33,7 +33,7 @@
 - - [GPT bot](https://github.com/artem-git-hub/g2y)
 - - [File bot](https://github.com/artem-git-hub/files_bot_public)
 
-- **from 2022** - I study and develop the backend of a website in Python, made a website in Django, helped in the IT center of the university write endpoints on the backend on DRF (DjangoRestFramework), after which I made [web administration panel for systemd processes](https ://github.com/artem-git-hub/server_visor_public) on FastAPI + JS (pure), HTML, CSS, and along the way there were a couple more [small pet projects on Django](https://github.com/ artem-git-hub/personal_portfolio) / launched most of the projects in Docker (and/or docker-compose) on a personal [Ubuntu server with a domain and SSL certificate](https://pushdomain.ru)
+- **from 2022** - I study and develop the backend of a website in Python, made a website in Django, helped in the IT center of the university write endpoints on the backend on DRF (DjangoRestFramework), after which I made [web administration panel for systemd processes](https://github.com/artem-git-hub/server_visor_public) on FastAPI + JS (pure), HTML, CSS, and along the way there were a couple more [small pet projects on Django](https://github.com/artem-git-hub/personal_portfolio) / launched most of the projects in Docker (and/or docker-compose) on a personal [Ubuntu server with a domain and SSL certificate](https://pushdomain.ru)
 
 #### p.s.: please note that there are links to projects in history, oddly enough they are clickable
 
