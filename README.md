@@ -1,6 +1,4 @@
-### Hi, this is my humble statistics
-
-[![Artem's GitHub stats](https://github-readme-stats.vercel.app/api?username=artem-git-hub&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+### Hi
 
 ## Backend skills:
 ![Pyhon](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=40cf93)
@@ -25,5 +23,5 @@
 Projects:
 - [GPT bot](https://github.com/artem-git-hub/g2y)
 - [File bot](https://github.com/artem-git-hub/files_bot_public)
-- [Server Visor](https://github.com/artem-git-hub/server_visor_public) on FastAPI + JS (pure), HTML, CSS
+- [Server Visor](https://github.com/artem-git-hub/server_visor_public) on FastAPI + JS (pure), HTML, blyaha-muha, CSS
 - [First pet-project on DRF](https://github.com/artem-git-hub/personal_portfolio)
